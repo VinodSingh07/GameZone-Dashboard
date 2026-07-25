@@ -4,6 +4,12 @@ An interactive **Tableau Sales Performance Dashboard** built to analyze GameZone
 
 ---
 
+# 📷 Dashboard Preview
+
+![Sales Performance Dashboard](https://github.com/VinodSingh07/Sales-Performance-Dashboard-Gamezone-Products-/blob/main/Sales%20Performance%20Dashboard(Gamezone%20Products).png)
+
+---
+
 # 📌 Short Description
 
 The **GameZone Sales Performance Dashboard** provides a comprehensive overview of product sales by combining key business metrics with interactive visualizations. It helps business users identify top-performing products, monitor Average Order Value (AOV), track refunds, compare regional sales performance, and evaluate the effectiveness of marketing channels.
@@ -212,12 +218,6 @@ Compare sales across geographic regions and identify expansion opportunities.
 ### 📌 Executive Reporting
 
 Provide leadership with an easy-to-understand overview of business performance through interactive KPIs and visual analytics.
-
----
-
-# 📷 Dashboard Preview
-
-![Sales Performance Dashboard](https://github.com/VinodSingh07/Sales-Performance-Dashboard-Gamezone-Products-/blob/main/Sales%20Performance%20Dashboard(Gamezone%20Products).png)
 
 ---
 
